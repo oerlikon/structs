@@ -1,4 +1,4 @@
-// Package structs contains various utilities functions to work with structs.
+// Package structs provides some utilities to examine and update Go structs at runtime.
 package structs
 
 import (
